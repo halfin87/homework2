@@ -1,0 +1,9 @@
+N = int (input ("введите число: "))
+
+x = 2
+
+while x <= N:
+
+    print (x)
+
+    x *= 2
